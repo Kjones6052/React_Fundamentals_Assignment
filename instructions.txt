@@ -1,0 +1,28 @@
+React Fundamentals: Module 11, Lesson 1
+
+Part 1. Building a Basic React Functional Component Portfolio
+
+Objective: 
+The aim of this assignment is to practice the fundamentals of React by building a basic portfolio web page using functional components. This 
+assignment focuses on understanding the structure and syntax of class components in React, without diving into props or states.
+
+Problem Statement: 
+Create a simple portfolio webpage with three main sections - a header, an about section, and a contact section - using functional components in 
+React. This webpage will serve as a basic introduction to the structure and capabilities of React's functional component system.
+
+Task 1: Create a Header Section
+Write a functional component named Header that includes a background image and you or a fictional character name overlaying the background image.
+status: incomplete 
+
+Task 2: Create an About Section
+Write a functional component named About that includes a brief description of yourself or a fictional character. This component should contain a 
+heading and a paragraph.
+status: incomplete
+
+Task 3: Create a Contact Section
+Develop a class component named Contact that displays simple contact information such as email or a LinkedIn profile.
+status: incomplete
+
+Task 4: Import components into an App component
+Develop a functional component called  App that imports and displays your  Header,   About, and Contact components.
+status: incomplete
